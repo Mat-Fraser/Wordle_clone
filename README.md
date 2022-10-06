@@ -1,5 +1,6 @@
 # Wordle_clone
 
+## [!!!!!!!!!    Play live here       !!!!!!!!](https://clonegamewordle.netlify.app/)
 
 # Project Title
 
